@@ -57,7 +57,7 @@ cd screenplay_writer_qa
 pip install pytest jsonschema
 
 # Execute the automated AI QA test harness
-pytest -v tests/test_screenplay_writer.py
+pytest -v tests/automated_test_harness.py
 ```
 
 ---
