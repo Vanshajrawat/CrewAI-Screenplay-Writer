@@ -64,8 +64,10 @@ pytest -v tests/test_screenplay_writer.py
 
 ## Video Demonstration Walkthrough (Loom)
 
-*   **Loom Video URL:** [https://www.loom.com/share/example-crewai-qa-walkthrough-placeholder](https://www.loom.com/share/example-crewai-qa-walkthrough-placeholder) *(Simulated URL for assignment submission)*
-*   **Video Agenda (7 mins):**
-    1.  **00:00 - 02:00:** Walkthrough of manual test matrix (`TEST_SUITE.md`) and AI QA methodology for multi-agent systems.
-    2.  **02:00 - 04:30:** Code review of the automated test harness (`/tests/test_screenplay_writer.py`) and JSON evaluation dataset.
-    3.  **04:30 - 07:00:** Live test execution walkthrough showing test passes, schema validations, latency telemetry, and discovered defect analysis (`DEFECT_REPORT.md`).#
+*   **Loom Video URL:** [https://www.loom.com/share/a13a0232a4434f6789970aef27a23609](https://www.loom.com/share/a13a0232a4434f6789970aef27a23609)
+*   **Video Agenda (5 mins):**
+    00:00 AI QA overview and goals
+	01:21 Test harness architecture and assertions
+	02:46 Running tests and telemetry
+	03:29 Security adversarial checks
+	04:14 Wrap up and repository resources
